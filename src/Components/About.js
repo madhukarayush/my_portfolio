@@ -24,7 +24,7 @@ class About extends Component {
           </div>
           <div className="nine columns main-col">
             <p className="hi">
-            Hi! I am Ayush Madhukar
+            Hi! I am Ayush
             </p>
             <p>
               I am currently a 3rd year student studying Computer Science and
