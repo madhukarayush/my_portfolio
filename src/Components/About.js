@@ -28,7 +28,7 @@ class About extends Component {
             </p>
             <p>
               I am currently a 3rd year student studying Computer Science and
-              Engineering at Netaji Subhas University of Technology. I have
+              Engineering from Netaji Subhas University of Technology. I have
               skills such as Full Stack Development, Application Developer, and
               Machine Learning as well. I developed interests in Computer
               Programming and subsequently started to explore the field of
