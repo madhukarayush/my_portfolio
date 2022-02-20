@@ -1,0 +1,66 @@
+{
+  "main": {
+    "name":"Ayus Madhukar",
+    "occupation":"Full-Stack Web Developer",
+    "description":"I like to code things from scratch, and enjoy bringing ideas to life in the browser",
+    "contactmessage":"Have me make stuff for you. If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+    "image":"img.jpg",
+    "email": "officialmdayush23@gmail.com",
+    "address":{
+      "city":"New Delhi",
+      "zip": "110045"
+    },
+    "website": "https://www.alex-portfolio.org/",
+    "resumedownload":"https://drive.google.com/file/d/1CxPiHJtWK3FVyps6cQQtmhKbSaPGvVcu/view?usp=sharing",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ayush-madhukar-69a656205/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/madhukarayush",
+        "className":"fa fa-github"
+      },
+     
+      {
+        "name":"email",
+        "url":"mailto:officialmdayush23@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Netaji Subhas University of Technology",
+        "degree":"Computer Science",
+        "graduated":"2019-present",
+        "description":"Currently I am pursuing my Bachelors of Technology in Computer Science and Engineering with Specialization in Artificial Intelligence from Netaji Subhas University of Technology, New Delhi.I am pre final year student of Computer Science .My Technical Interests include Algorithmic Problem Solving, Web Development, Artificial Intelligence, Machine Learning ,Deep Learning."
+      },
+      {
+        "school":"Adarsh Jain Dharmic Siksha Sadan",
+        "degree":"CBSE",
+        "graduated":"Completed in 2019 ",
+        "description":"I have passed my 12th standard in 2019 in from Science stream with a helthy perecentage of 90.4% .I developed interests in Computers and Programming during my high school period only and subsequently started to explore the field of technology."
+      }
+    ],
+    "work":[
+      {
+        "company": "Coding Ninjas",
+        "title": "Teaching Assistant",
+        "years": "Oct 2021 - Feb 2022",
+        "description": "Analyzing and solving the queries of students enrolled in the course by debugging their codes. Helping students in their assignments & various projects. Taken 750+ doubts of students and also took online doubt sessions and interacted with students ."
+      },
+      {
+        "company":"Chegg Inc",
+        "title":"Subject matter expert",
+        "years":"October 2021 - Present",
+        "description":"I am currently a subject matter expert (Computer Science) at Chegg Inc. and solved 200+ questions and doubts of students related to DBMS, OS, DSA,Computer Science fundamentals."
+      }
+    ]
+  }
+  
+}
